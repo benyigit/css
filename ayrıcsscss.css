@@ -1,0 +1,19 @@
+body {
+  background-color:#black;
+}
+
+div {
+width: 300px;
+height: 180px;
+border: 3px #ff0;
+color: #dd2;
+font: bold 20px tahoma;
+background: #c30;
+border-radius: 20px 20px 20px 20px;
+text-align: center;
+box-shadow: 10px 5px 4px;
+margin: 50px auto;
+padding: 120px 0 0;
+transform: rotate(12deg);
+
+}
